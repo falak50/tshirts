@@ -3,7 +3,7 @@
 const OrderReview = () => {
     return (
         <div>
-            <h1>this is ored OrderReview </h1>
+         <h1>coming soon......</h1>
         </div>
     );
 };
